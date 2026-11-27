@@ -1,0 +1,24 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+TOOL 1: Simple Calculator
+This tool adds, subtracts, multiplies, and divides two numbers.
+Concepts: input, variables, conditionals, and f-strings.
+
+TOOL 2: To-Do List
+This tool allows users to add and view tasks.
+Concepts: lists, loops, and conditionals.
+
+TOOL 3: Number Checker
+This tool checks whether a number is positive, negative, or zero.
+Concepts: input, conditionals, and f-strings.
+
+MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice:
